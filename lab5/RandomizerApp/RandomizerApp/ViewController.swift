@@ -10,6 +10,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var image: UIImageView!
     @IBOutlet weak var titleLabel: UILabel!
     @IBOutlet weak var randomizeButton: UIButton!
+    @IBOutlet weak var Label: UILabel!
     
     let items: [Sneakers] = [
         Sneakers(name: "Nike Air Max", image: "airmax"),

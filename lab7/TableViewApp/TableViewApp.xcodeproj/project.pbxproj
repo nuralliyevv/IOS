@@ -7,75 +7,65 @@
 	objects = {
 
 /* Begin PBXContainerItemProxy section */
-		6F1C56CA2EA992770000CD70 /* PBXContainerItemProxy */ = {
+		00E072772EC242CC0032DA88 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 6F1C56AB2EA992750000CD70 /* Project object */;
+			containerPortal = 00E072582EC242CB0032DA88 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 6F1C56B22EA992750000CD70;
-			remoteInfo = RandomizerApp;
+			remoteGlobalIDString = 00E0725F2EC242CB0032DA88;
+			remoteInfo = TableViewApp;
 		};
-		6F1C56D42EA992770000CD70 /* PBXContainerItemProxy */ = {
+		00E072812EC242CC0032DA88 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 6F1C56AB2EA992750000CD70 /* Project object */;
+			containerPortal = 00E072582EC242CB0032DA88 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 6F1C56B22EA992750000CD70;
-			remoteInfo = RandomizerApp;
+			remoteGlobalIDString = 00E0725F2EC242CB0032DA88;
+			remoteInfo = TableViewApp;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		6F1C56B32EA992750000CD70 /* RandomizerApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RandomizerApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		6F1C56C92EA992770000CD70 /* RandomizerAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RandomizerAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		6F1C56D32EA992770000CD70 /* RandomizerAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RandomizerAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		00E072602EC242CB0032DA88 /* TableViewApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TableViewApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		00E072762EC242CC0032DA88 /* TableViewAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TableViewAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		00E072802EC242CC0032DA88 /* TableViewAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TableViewAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		6F1C56DB2EA992770000CD70 /* Exceptions for "RandomizerApp" folder in "RandomizerApp" target */ = {
+		00E072882EC242CC0032DA88 /* Exceptions for "TableViewApp" folder in "TableViewApp" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
 			);
-			target = 6F1C56B22EA992750000CD70 /* RandomizerApp */;
+			target = 00E0725F2EC242CB0032DA88 /* TableViewApp */;
 		};
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		6F1C56B52EA992750000CD70 /* RandomizerApp */ = {
+		00E072622EC242CB0032DA88 /* TableViewApp */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				6F1C56DB2EA992770000CD70 /* Exceptions for "RandomizerApp" folder in "RandomizerApp" target */,
+				00E072882EC242CC0032DA88 /* Exceptions for "TableViewApp" folder in "TableViewApp" target */,
 			);
-			path = RandomizerApp;
-			sourceTree = "<group>";
-		};
-		6F1C56CC2EA992770000CD70 /* RandomizerAppTests */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = RandomizerAppTests;
-			sourceTree = "<group>";
-		};
-		6F1C56D62EA992770000CD70 /* RandomizerAppUITests */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = RandomizerAppUITests;
+			path = TableViewApp;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		6F1C56B02EA992750000CD70 /* Frameworks */ = {
+		00E0725D2EC242CB0032DA88 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		6F1C56C62EA992770000CD70 /* Frameworks */ = {
+		00E072732EC242CC0032DA88 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		6F1C56D02EA992770000CD70 /* Frameworks */ = {
+		00E0727D2EC242CC0032DA88 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -85,22 +75,20 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		6F1C56AA2EA992750000CD70 = {
+		00E072572EC242CB0032DA88 = {
 			isa = PBXGroup;
 			children = (
-				6F1C56B52EA992750000CD70 /* RandomizerApp */,
-				6F1C56CC2EA992770000CD70 /* RandomizerAppTests */,
-				6F1C56D62EA992770000CD70 /* RandomizerAppUITests */,
-				6F1C56B42EA992750000CD70 /* Products */,
+				00E072622EC242CB0032DA88 /* TableViewApp */,
+				00E072612EC242CB0032DA88 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		6F1C56B42EA992750000CD70 /* Products */ = {
+		00E072612EC242CB0032DA88 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				6F1C56B32EA992750000CD70 /* RandomizerApp.app */,
-				6F1C56C92EA992770000CD70 /* RandomizerAppTests.xctest */,
-				6F1C56D32EA992770000CD70 /* RandomizerAppUITests.xctest */,
+				00E072602EC242CB0032DA88 /* TableViewApp.app */,
+				00E072762EC242CC0032DA88 /* TableViewAppTests.xctest */,
+				00E072802EC242CC0032DA88 /* TableViewAppUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -108,134 +96,128 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		6F1C56B22EA992750000CD70 /* RandomizerApp */ = {
+		00E0725F2EC242CB0032DA88 /* TableViewApp */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 6F1C56DC2EA992770000CD70 /* Build configuration list for PBXNativeTarget "RandomizerApp" */;
+			buildConfigurationList = 00E072892EC242CC0032DA88 /* Build configuration list for PBXNativeTarget "TableViewApp" */;
 			buildPhases = (
-				6F1C56AF2EA992750000CD70 /* Sources */,
-				6F1C56B02EA992750000CD70 /* Frameworks */,
-				6F1C56B12EA992750000CD70 /* Resources */,
+				00E0725C2EC242CB0032DA88 /* Sources */,
+				00E0725D2EC242CB0032DA88 /* Frameworks */,
+				00E0725E2EC242CB0032DA88 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				6F1C56B52EA992750000CD70 /* RandomizerApp */,
+				00E072622EC242CB0032DA88 /* TableViewApp */,
 			);
-			name = RandomizerApp;
+			name = TableViewApp;
 			packageProductDependencies = (
 			);
-			productName = RandomizerApp;
-			productReference = 6F1C56B32EA992750000CD70 /* RandomizerApp.app */;
+			productName = TableViewApp;
+			productReference = 00E072602EC242CB0032DA88 /* TableViewApp.app */;
 			productType = "com.apple.product-type.application";
 		};
-		6F1C56C82EA992770000CD70 /* RandomizerAppTests */ = {
+		00E072752EC242CC0032DA88 /* TableViewAppTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 6F1C56E12EA992770000CD70 /* Build configuration list for PBXNativeTarget "RandomizerAppTests" */;
+			buildConfigurationList = 00E0728E2EC242CC0032DA88 /* Build configuration list for PBXNativeTarget "TableViewAppTests" */;
 			buildPhases = (
-				6F1C56C52EA992770000CD70 /* Sources */,
-				6F1C56C62EA992770000CD70 /* Frameworks */,
-				6F1C56C72EA992770000CD70 /* Resources */,
+				00E072722EC242CC0032DA88 /* Sources */,
+				00E072732EC242CC0032DA88 /* Frameworks */,
+				00E072742EC242CC0032DA88 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				6F1C56CB2EA992770000CD70 /* PBXTargetDependency */,
+				00E072782EC242CC0032DA88 /* PBXTargetDependency */,
 			);
-			fileSystemSynchronizedGroups = (
-				6F1C56CC2EA992770000CD70 /* RandomizerAppTests */,
-			);
-			name = RandomizerAppTests;
+			name = TableViewAppTests;
 			packageProductDependencies = (
 			);
-			productName = RandomizerAppTests;
-			productReference = 6F1C56C92EA992770000CD70 /* RandomizerAppTests.xctest */;
+			productName = TableViewAppTests;
+			productReference = 00E072762EC242CC0032DA88 /* TableViewAppTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		6F1C56D22EA992770000CD70 /* RandomizerAppUITests */ = {
+		00E0727F2EC242CC0032DA88 /* TableViewAppUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 6F1C56E42EA992770000CD70 /* Build configuration list for PBXNativeTarget "RandomizerAppUITests" */;
+			buildConfigurationList = 00E072912EC242CC0032DA88 /* Build configuration list for PBXNativeTarget "TableViewAppUITests" */;
 			buildPhases = (
-				6F1C56CF2EA992770000CD70 /* Sources */,
-				6F1C56D02EA992770000CD70 /* Frameworks */,
-				6F1C56D12EA992770000CD70 /* Resources */,
+				00E0727C2EC242CC0032DA88 /* Sources */,
+				00E0727D2EC242CC0032DA88 /* Frameworks */,
+				00E0727E2EC242CC0032DA88 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				6F1C56D52EA992770000CD70 /* PBXTargetDependency */,
+				00E072822EC242CC0032DA88 /* PBXTargetDependency */,
 			);
-			fileSystemSynchronizedGroups = (
-				6F1C56D62EA992770000CD70 /* RandomizerAppUITests */,
-			);
-			name = RandomizerAppUITests;
+			name = TableViewAppUITests;
 			packageProductDependencies = (
 			);
-			productName = RandomizerAppUITests;
-			productReference = 6F1C56D32EA992770000CD70 /* RandomizerAppUITests.xctest */;
+			productName = TableViewAppUITests;
+			productReference = 00E072802EC242CC0032DA88 /* TableViewAppUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		6F1C56AB2EA992750000CD70 /* Project object */ = {
+		00E072582EC242CB0032DA88 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
-				LastSwiftUpdateCheck = 1640;
-				LastUpgradeCheck = 1640;
+				LastSwiftUpdateCheck = 1620;
+				LastUpgradeCheck = 1620;
 				TargetAttributes = {
-					6F1C56B22EA992750000CD70 = {
-						CreatedOnToolsVersion = 16.4;
+					00E0725F2EC242CB0032DA88 = {
+						CreatedOnToolsVersion = 16.2;
 					};
-					6F1C56C82EA992770000CD70 = {
-						CreatedOnToolsVersion = 16.4;
-						TestTargetID = 6F1C56B22EA992750000CD70;
+					00E072752EC242CC0032DA88 = {
+						CreatedOnToolsVersion = 16.2;
+						TestTargetID = 00E0725F2EC242CB0032DA88;
 					};
-					6F1C56D22EA992770000CD70 = {
-						CreatedOnToolsVersion = 16.4;
-						TestTargetID = 6F1C56B22EA992750000CD70;
+					00E0727F2EC242CC0032DA88 = {
+						CreatedOnToolsVersion = 16.2;
+						TestTargetID = 00E0725F2EC242CB0032DA88;
 					};
 				};
 			};
-			buildConfigurationList = 6F1C56AE2EA992750000CD70 /* Build configuration list for PBXProject "RandomizerApp" */;
+			buildConfigurationList = 00E0725B2EC242CB0032DA88 /* Build configuration list for PBXProject "TableViewApp" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 6F1C56AA2EA992750000CD70;
+			mainGroup = 00E072572EC242CB0032DA88;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 6F1C56B42EA992750000CD70 /* Products */;
+			productRefGroup = 00E072612EC242CB0032DA88 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				6F1C56B22EA992750000CD70 /* RandomizerApp */,
-				6F1C56C82EA992770000CD70 /* RandomizerAppTests */,
-				6F1C56D22EA992770000CD70 /* RandomizerAppUITests */,
+				00E0725F2EC242CB0032DA88 /* TableViewApp */,
+				00E072752EC242CC0032DA88 /* TableViewAppTests */,
+				00E0727F2EC242CC0032DA88 /* TableViewAppUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		6F1C56B12EA992750000CD70 /* Resources */ = {
+		00E0725E2EC242CB0032DA88 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		6F1C56C72EA992770000CD70 /* Resources */ = {
+		00E072742EC242CC0032DA88 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		6F1C56D12EA992770000CD70 /* Resources */ = {
+		00E0727E2EC242CC0032DA88 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -245,21 +227,21 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		6F1C56AF2EA992750000CD70 /* Sources */ = {
+		00E0725C2EC242CB0032DA88 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		6F1C56C52EA992770000CD70 /* Sources */ = {
+		00E072722EC242CC0032DA88 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		6F1C56CF2EA992770000CD70 /* Sources */ = {
+		00E0727C2EC242CC0032DA88 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -269,20 +251,20 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		6F1C56CB2EA992770000CD70 /* PBXTargetDependency */ = {
+		00E072782EC242CC0032DA88 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 6F1C56B22EA992750000CD70 /* RandomizerApp */;
-			targetProxy = 6F1C56CA2EA992770000CD70 /* PBXContainerItemProxy */;
+			target = 00E0725F2EC242CB0032DA88 /* TableViewApp */;
+			targetProxy = 00E072772EC242CC0032DA88 /* PBXContainerItemProxy */;
 		};
-		6F1C56D52EA992770000CD70 /* PBXTargetDependency */ = {
+		00E072822EC242CC0032DA88 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 6F1C56B22EA992750000CD70 /* RandomizerApp */;
-			targetProxy = 6F1C56D42EA992770000CD70 /* PBXContainerItemProxy */;
+			target = 00E0725F2EC242CB0032DA88 /* TableViewApp */;
+			targetProxy = 00E072812EC242CC0032DA88 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		6F1C56DD2EA992770000CD70 /* Debug */ = {
+		00E0728A2EC242CC0032DA88 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -291,18 +273,20 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = BP88B4Q7PY;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = RandomizerApp/Info.plist;
+				INFOPLIST_FILE = TableViewApp/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = TableViewApp;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.miras.RandomizerApp;
+				PRODUCT_BUNDLE_IDENTIFIER = "ios-dev.TableViewApp";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -310,7 +294,7 @@
 			};
 			name = Debug;
 		};
-		6F1C56DE2EA992770000CD70 /* Release */ = {
+		00E0728B2EC242CC0032DA88 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -319,18 +303,20 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = BP88B4Q7PY;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = RandomizerApp/Info.plist;
+				INFOPLIST_FILE = TableViewApp/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = TableViewApp;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.miras.RandomizerApp;
+				PRODUCT_BUNDLE_IDENTIFIER = "ios-dev.TableViewApp";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -338,7 +324,7 @@
 			};
 			name = Release;
 		};
-		6F1C56DF2EA992770000CD70 /* Debug */ = {
+		00E0728C2EC242CC0032DA88 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -373,7 +359,6 @@
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = dwarf;
-				DEVELOPMENT_TEAM = 2DAKGAN354;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
 				ENABLE_USER_SCRIPT_SANDBOXING = YES;
@@ -391,7 +376,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
@@ -402,7 +387,7 @@
 			};
 			name = Debug;
 		};
-		6F1C56E02EA992770000CD70 /* Release */ = {
+		00E0728D2EC242CC0032DA88 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -437,7 +422,6 @@
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				DEVELOPMENT_TEAM = 2DAKGAN354;
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_USER_SCRIPT_SANDBOXING = YES;
@@ -449,7 +433,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
@@ -459,118 +443,114 @@
 			};
 			name = Release;
 		};
-		6F1C56E22EA992770000CD70 /* Debug */ = {
+		00E0728F2EC242CC0032DA88 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 2DAKGAN354;
 				GENERATE_INFOPLIST_FILE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.rassul.RandomizerAppTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.rassul.TableViewAppTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/RandomizerApp.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/RandomizerApp";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/TableViewApp.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/TableViewApp";
 			};
 			name = Debug;
 		};
-		6F1C56E32EA992770000CD70 /* Release */ = {
+		00E072902EC242CC0032DA88 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 2DAKGAN354;
 				GENERATE_INFOPLIST_FILE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.rassul.RandomizerAppTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.rassul.TableViewAppTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/RandomizerApp.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/RandomizerApp";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/TableViewApp.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/TableViewApp";
 			};
 			name = Release;
 		};
-		6F1C56E52EA992770000CD70 /* Debug */ = {
+		00E072922EC242CC0032DA88 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 2DAKGAN354;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.rassul.RandomizerAppUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.rassul.TableViewAppUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = RandomizerApp;
+				TEST_TARGET_NAME = TableViewApp;
 			};
 			name = Debug;
 		};
-		6F1C56E62EA992770000CD70 /* Release */ = {
+		00E072932EC242CC0032DA88 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 2DAKGAN354;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.rassul.RandomizerAppUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.rassul.TableViewAppUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = RandomizerApp;
+				TEST_TARGET_NAME = TableViewApp;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		6F1C56AE2EA992750000CD70 /* Build configuration list for PBXProject "RandomizerApp" */ = {
+		00E0725B2EC242CB0032DA88 /* Build configuration list for PBXProject "TableViewApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				6F1C56DF2EA992770000CD70 /* Debug */,
-				6F1C56E02EA992770000CD70 /* Release */,
+				00E0728C2EC242CC0032DA88 /* Debug */,
+				00E0728D2EC242CC0032DA88 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		6F1C56DC2EA992770000CD70 /* Build configuration list for PBXNativeTarget "RandomizerApp" */ = {
+		00E072892EC242CC0032DA88 /* Build configuration list for PBXNativeTarget "TableViewApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				6F1C56DD2EA992770000CD70 /* Debug */,
-				6F1C56DE2EA992770000CD70 /* Release */,
+				00E0728A2EC242CC0032DA88 /* Debug */,
+				00E0728B2EC242CC0032DA88 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		6F1C56E12EA992770000CD70 /* Build configuration list for PBXNativeTarget "RandomizerAppTests" */ = {
+		00E0728E2EC242CC0032DA88 /* Build configuration list for PBXNativeTarget "TableViewAppTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				6F1C56E22EA992770000CD70 /* Debug */,
-				6F1C56E32EA992770000CD70 /* Release */,
+				00E0728F2EC242CC0032DA88 /* Debug */,
+				00E072902EC242CC0032DA88 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		6F1C56E42EA992770000CD70 /* Build configuration list for PBXNativeTarget "RandomizerAppUITests" */ = {
+		00E072912EC242CC0032DA88 /* Build configuration list for PBXNativeTarget "TableViewAppUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				6F1C56E52EA992770000CD70 /* Debug */,
-				6F1C56E62EA992770000CD70 /* Release */,
+				00E072922EC242CC0032DA88 /* Debug */,
+				00E072932EC242CC0032DA88 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 6F1C56AB2EA992750000CD70 /* Project object */;
+	rootObject = 00E072582EC242CB0032DA88 /* Project object */;
 }
